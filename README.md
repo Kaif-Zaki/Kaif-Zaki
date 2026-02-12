@@ -107,14 +107,14 @@ const kaif = {
 ## 🎨 Contribution Graph
 <div align="center">
   
-  ![](https://github-readme-activity-graph.vercel.app/graph?username=Kaif-Zakey&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&hide_border=true)
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=Kaif-Zaki&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&hide_border=true)
 
 </div>
 
 ## 🏆 GitHub Trophies
 <div align=center>
 
-![](https://github-profile-trophy.vercel.app/?username=Kaif-Zakey&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Kaif-Zaki&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 <br>
@@ -123,13 +123,13 @@ const kaif = {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaif-Zakey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaif-Zaki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif-Zakey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif-Zaki&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
 
 
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaif-Zakey&theme=github_dark" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaif-Zaki&theme=github_dark" alt="Profile Summary"/>
 
 
 </div>
@@ -141,7 +141,7 @@ const kaif = {
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaifzakey22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaif-Zakey)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaif-Zaki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaif-zakey-727397332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94776737532)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaif_zak?igsh=MTgycWZxNWNzZ3prNg==)
@@ -162,7 +162,7 @@ const kaif = {
 
  **💭 "Code is like humor. When you have to explain it, it's bad." – Cory House**
  
-<img src="https://komarev.com/ghpvc/?username=Kaif-Zakey&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Kaif-Zaki&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
