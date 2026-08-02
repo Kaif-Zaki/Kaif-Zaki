@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Kaif%20Zaki&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=20&descAlignY=58&descAlign=50&descColor=a5b4fc"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e7ff,50:c7d2fe,100:a5b4fc&height=230&section=header&text=Kaif%20Zaki&fontSize=72&fontColor=1e1b4b&animation=fadeIn&fontAlignY=36&desc=Soft%20Ware%20Engineer%20%E2%80%A2%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=20&descAlignY=58&descAlign=50&descColor=4338ca" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e7ff,50:c7d2fe,100:a5b4fc&height=230&section=header&text=Kaif%20Zaki&fontSize=72&fontColor=1e1b4b&animation=fadeIn&fontAlignY=36&desc=SoftWare%20Engineer%20%E2%80%A2%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=20&descAlignY=58&descAlign=50&descColor=4338ca" width="100%" alt="header"/>
 </picture>
 
 <div align="center">
