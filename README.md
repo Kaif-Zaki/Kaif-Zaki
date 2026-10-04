@@ -360,7 +360,7 @@ const kaif: Developer = {
 
 <br/>
 
-**📬 Open to** &nbsp;—&nbsp; Internships &nbsp;·&nbsp; Freelance &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Tech Discussions
+**📬 Open to**  &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Tech Discussions
 
 <br/>
 
