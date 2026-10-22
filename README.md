@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![Portfolio](https://zaki-portfolio.oncodetech.com/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-EA7835?style=for-the-badge&logo=book&logoColor=white)](https://zaki-portfolio.oncodetech.com/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaif-zakey-727397332)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaifzakey22@gmail.com)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94776737532)
