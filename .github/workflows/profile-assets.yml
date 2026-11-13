@@ -7,9 +7,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "scripts/generate-profile-assets.mjs"
-      - ".github/workflows/profile-assets.yml"
 
 permissions:
   contents: write
