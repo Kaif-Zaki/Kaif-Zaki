@@ -170,70 +170,22 @@ const kaif: Developer = {
 
 ## 📈 GitHub Analytics
 
-<!-- ── Stats Card: Dark / Light ── -->
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Kaif-Zaki&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&ring_color=6366f1"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Kaif-Zaki&show_icons=true&include_all_commits=true&theme=default&hide_border=true&bg_color=f0f4ff&title_color=4338ca&icon_color=6366f1&text_color=1e1b4b&ring_color=6366f1"
-    alt="Kaif's GitHub Stats"
-  />
-</picture>
-&nbsp;&nbsp;
-<!-- ── Top Languages: Dark / Light ── -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif-Zaki&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif-Zaki&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=f0f4ff&title_color=4338ca&text_color=1e1b4b"
-    alt="Top Languages"
-  />
-</picture>
+<a href="https://github.com/Kaif-Zaki">
+<img width="49%" src="./profile/stats.svg" alt="Kaif's GitHub Stats"/>
+</a>
+<a href="https://github.com/Kaif-Zaki">
+<img width="49%" src="./profile/languages.svg" alt="Top Languages"/>
+</a>
 
-</div>
+<br/><br/>
 
-<br/>
+<img width="98%" src="./profile/streak.svg" alt="GitHub Streak" />
 
-<!-- ── Streak: Dark / Light ── -->
-<div align="center">
+<br/><br/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=Kaif-Zaki&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=818CF8&fire=6366F1&currStreakLabel=818CF8&sideLabels=c9d1d9&dates=6b7280"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Kaif-Zaki&theme=default&hide_border=true&background=f0f4ff&ring=6366f1&fire=4338ca&currStreakLabel=4338ca&sideLabels=1e1b4b&dates=4b5563"
-    alt="GitHub Streak"
-  />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ── Activity Graph: Dark / Light ── -->
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kaif-Zaki&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&area=true&area_color=1e1b4b&hide_border=true&custom_title=Kaif%27s%20Contribution%20Graph"
-  />
-  <img
-    width="96%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kaif-Zaki&bg_color=f0f4ff&color=4338ca&line=6366f1&point=4338ca&area=true&area_color=e0e7ff&hide_border=true&custom_title=Kaif%27s%20Contribution%20Graph"
-    alt="Contribution Graph"
-  />
-</picture>
+<img width="98%" src="./profile/activity.svg" alt="Contribution Graph" />
 
 </div>
 
@@ -243,38 +195,18 @@ const kaif: Developer = {
 
 ## 🏆 Trophies & Achievements
 
-<!-- ── Trophies: Dark / Light ── -->
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-trophy.vercel.app/?username=Kaif-Zaki&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7"
-  />
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Kaif-Zaki&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7"
-    alt="GitHub Trophies"
-  />
-</picture>
+<a href="https://github.com/Kaif-Zaki?tab=achievements">🏆 View GitHub Achievements</a>
 
 </div>
 
 <br/>
 
-<!-- ── Profile Summary: Dark / Light ── -->
+<!-- ── Profile Summary: matching locally generated cards ── -->
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaif-Zaki&theme=github_dark"
-  />
-  <img
-    width="96%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaif-Zaki&theme=github"
-    alt="Profile Summary"
-  />
-</picture>
+<img width="96%" src="./profile/activity.svg" alt="Profile Summary"/>
 
 </div>
 
@@ -282,20 +214,11 @@ const kaif: Developer = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaif-Zaki&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaif-Zaki&theme=github" width="31%" alt="Repos per Language"/>
-</picture>
+<img src="./profile/repos-per-language.svg" width="31%" alt="Repos per Language"/>
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaif-Zaki&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaif-Zaki&theme=github" width="31%" alt="Most Commit Language"/>
-</picture>
+<img src="./profile/languages.svg" width="31%" alt="Most Used Languages"/>
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaif-Zaki&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaif-Zaki&theme=github" width="31%" alt="Stats"/>
-</picture>
+<img src="./profile/stats.svg" width="31%" alt="GitHub Stats"/>
 
 </div>
 
