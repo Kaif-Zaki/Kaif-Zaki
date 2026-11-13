@@ -35,7 +35,7 @@
 const kaif: Developer = {
   name     : "Kaif Zaki",
   location : "Sri Lanka 🇱🇰",
-  role     : "Undergraduate Software Engineer",
+  role     : "Associate Full Stack Developer",
 
   expertise: {
     frontend  : ["React", "Next.js", "TypeScript", "Tailwind"],
@@ -51,7 +51,7 @@ const kaif: Developer = {
   ],
 
   funFact : "I debug with console.log and I'm not ashamed 😄",
-  openTo  : "Internships · Collaborations · Open Source 🚀",
+  openTo  : "Full-Stack Opportunities · Collaborations · Open Source 🚀",
 };
 ```
 
@@ -203,22 +203,27 @@ const kaif: Developer = {
 
 <br/>
 
-<!-- ── Profile Summary: matching locally generated cards ── -->
+## 🧩 Engineering Focus
+
 <div align="center">
 
-<img width="96%" src="./profile/activity.svg" alt="Profile Summary"/>
+| Area | What I work on |
+|:---|:---|
+| **Frontend Engineering** | Responsive interfaces, reusable components, React and modern JavaScript |
+| **Backend Engineering** | REST APIs, authentication, business logic and backend services |
+| **Database Engineering** | Relational and NoSQL data modelling, queries and optimization |
+| **Deployment & Operations** | Linux VPS, Docker, PM2, domains, DNS, SSL and reverse proxies |
+| **Developer Workflow** | Git/GitHub, Postman, debugging and maintainable project structure |
 
 </div>
 
 <br/>
 
+## ⚙️ My Development Workflow
+
 <div align="center">
 
-<img src="./profile/repos-per-language.svg" width="31%" alt="Repos per Language"/>
-&nbsp;
-<img src="./profile/languages.svg" width="31%" alt="Most Used Languages"/>
-&nbsp;
-<img src="./profile/stats.svg" width="31%" alt="GitHub Stats"/>
+Understand the problem → Plan the architecture → Build & integrate → Test & debug → Deploy & improve
 
 </div>
 
