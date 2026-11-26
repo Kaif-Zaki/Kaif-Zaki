@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" alt="coding gif"/>
+<img align="right" width="340" src="https://github.com/Kaif-Zaki/Kaif-Zaki/blob/main/zaki.png" alt="coding gif"/>
 
 ```typescript
 const kaif: Developer = {
