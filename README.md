@@ -63,8 +63,10 @@ const kaif: Developer = {
 <br clear="right"/>
 
 <br/>
-
+<div align="center">
+  
 ### 🎯 Currently Focused On
+---
 
 | Status | Area | Stack |
 |:------:|:-----|:------|
@@ -73,14 +75,20 @@ const kaif: Developer = {
 | 💡 Exploring | Cloud-Native Technologies | AWS · Kubernetes · Terraform |
 | 🎨 Creating | Dynamic Web Experiences | Next.js · TypeScript · Tailwind |
 | 📚 Reading | Architecture Books | Clean Architecture · Design Patterns |
+  
+</div>
+
 
 <br/>
 
----
 
-## 🛠️ Tech Arsenal
 
 <div align="center">
+
+### 🛠️ Tech Arsenal
+---
+
+
 
 ### 🎨 Frontend
 
@@ -151,9 +159,13 @@ const kaif: Developer = {
 
 ---
 
-## 📊 Skill Proficiency
 
 <div align="center">
+
+
+## 📊 Skill Proficiency
+---
+
 
 | Domain | Technology | Level | &nbsp; |
 |:------:|:-----------|:-----:|:------:|
@@ -173,9 +185,12 @@ const kaif: Developer = {
 
 ---
 
-## 📈 GitHub Analytics
 
 <div align="center">
+
+## 📈 GitHub Analytics
+
+---
 
 <a href="https://github.com/Kaif-Zaki">
 <img width="49%" src="./profile/stats.svg" alt="Kaif's GitHub Stats"/>
@@ -198,9 +213,12 @@ const kaif: Developer = {
 
 ---
 
-## 🏆 Trophies & Achievements
 
 <div align="center">
+
+## 🏆 Trophies & Achievements
+
+---
 
 <a href="https://github.com/Kaif-Zaki?tab=achievements">🏆 View GitHub Achievements</a>
 
@@ -208,9 +226,12 @@ const kaif: Developer = {
 
 <br/>
 
-## 🧩 Engineering Focus
 
 <div align="center">
+
+## 🧩 Engineering Focus
+
+---
 
 | Area | What I work on |
 |:---|:---|
@@ -224,9 +245,12 @@ const kaif: Developer = {
 
 <br/>
 
-## ⚙️ My Development Workflow
 
 <div align="center">
+
+## ⚙️ My Development Workflow
+---
+
 
 Understand the problem → Plan the architecture → Build & integrate → Test & debug → Deploy & improve
 
@@ -236,9 +260,11 @@ Understand the problem → Plan the architecture → Build & integrate → Test 
 
 ---
 
-## 🚀 What I'm Building
 
 <div align="center">
+
+## 🚀 What I'm Building
+
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -264,9 +290,11 @@ Understand the problem → Plan the architecture → Build & integrate → Test 
 
 ---
 
-## 🤝 Let's Connect & Collaborate
 
 <div align="center">
+
+## 🤝 Let's Connect & Collaborate
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6366f1?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio-zaki.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaif-zakey-727397332)
