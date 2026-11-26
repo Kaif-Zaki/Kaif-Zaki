@@ -29,7 +29,8 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://github.com/Kaif-Zaki/Kaif-Zaki/blob/main/zaki.png" alt="kaif zaki"/>
+<img align="right" width="340" src="https://github.com/Kaif-Zaki/Kaif-Zaki/blob/main/zaki.png"   alt="Kaif Zaki" title="Kaif Zaki - Software Engineer"/>
+
 
 ```typescript
 const kaif: Developer = {
@@ -54,6 +55,10 @@ const kaif: Developer = {
   openTo  : "Full-Stack Opportunities · Collaborations · Open Source 🚀",
 };
 ```
+### Professional Profile Images
+
+- [Kaif Zaki - Software Engineer](https://github.com/Kaif-Zaki/Kaif-Zaki/blob/main/Kaif%20Zaki.jpg)
+- [Kaif Zaki - Professional Portrait](https://github.com/Kaif-Zaki/Kaif-Zaki/blob/main/Kaif.png)
 
 <br clear="right"/>
 
